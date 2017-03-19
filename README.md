@@ -69,6 +69,12 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [How do I get list of methods in a Python class ?](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
 
+[Pra que serve o __all__ no Python ?](http://pt.stackoverflow.com/questions/176527/pra-que-serve-o-all-no-python)
+
+[How are deques in Python implemented, and when are they worse than lists ?](http://stackoverflow.com/questions/6256983/how-are-deques-in-python-implemented-and-when-are-they-worse-than-lists)
+
+[What are “named tuples” in Python ?](http://stackoverflow.com/questions/2970608/what-are-named-tuples-in-python)
+
 <h4>Php</h4>
 ------------------------------------------------------
 
@@ -82,8 +88,13 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Make the current commit the only ( initial ) commit in a Git repository ?](http://stackoverflow.com/questions/9683279/make-the-current-commit-the-only-initial-commit-in-a-git-repository)
 
 <h4>Sql / Mysql - Mysqli / Post / Mongo ... </h4>
+------------------------------------------------------
 
 [Can't connect to My Sql server error 111](http://stackoverflow.com/questions/1420839/cant-connect-to-mysql-server-error-111)
+
+[Qual a diferença entre charset e collation em banco de dados ?](http://pt.stackoverflow.com/questions/30329/qual-a-diferen%c3%a7a-entre-charset-e-collation-em-banco-de-dados)
+
+[How big is big data ?](http://datascience.stackexchange.com/questions/19/how-big-is-big-data)
 
 <h4>Geral</h4>
 ------------------------------------------------------
@@ -107,3 +118,7 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que significa handshake ?](http://pt.stackoverflow.com/questions/181115/o-que-significa-handshake)
 
 [What is pair programming ?](http://stackoverflow.com/questions/696586/what-is-pair-programming)
+
+[O que é payload ?](http://pt.stackoverflow.com/questions/188469/o-que-%c3%a9-payload)
+
+[Como funciona o licenciamento dos programas Open-Source ?](http://pt.stackoverflow.com/questions/29789/como-funciona-o-licenciamento-dos-programas-open-source)
