@@ -1,7 +1,9 @@
+
 # Stack
 
-Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito 🤖
+![Stack](https://cdn.sstatic.net/Sites/br/img/apple-touch-icon@2.png?v=2bb2b60be04f)
 
+Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito 🤖
 
 <h4>Linux</h4>
 ------------------------------------------------------
