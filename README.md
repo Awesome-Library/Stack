@@ -1,6 +1,6 @@
 # Stack
 
-Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito ( :
+Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito 🤖
 
 
 <h4>Linux</h4>
