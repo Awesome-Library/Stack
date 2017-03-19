@@ -1,8 +1,6 @@
 
 # Stack
 
-![Stack](https://cdn.sstatic.net/Sites/br/img/apple-touch-icon@2.png?v=2bb2b60be04f)
-
 Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito 🤖
 
 <h4>Linux</h4>
@@ -21,6 +19,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Ngrok installation in ubuntu 12.04](https://askubuntu.com/questions/703078/ngrok-installation-in-ubuntu-12-04)
 
 [Ubuntu One behind a proxy, how to make it work ?](https://askubuntu.com/questions/7081/ubuntu-one-behind-a-proxy-how-to-make-it-work?s=1|0.0000)
+
+[How to find remote routers mac address ?](https://security.stackexchange.com/questions/146364/how-to-find-remote-routers-mac-address)
 
 <h4>C / C++</h4>
 ------------------------------------------------------
@@ -126,3 +126,5 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que é payload ?](http://pt.stackoverflow.com/questions/188469/o-que-%c3%a9-payload)
 
 [Como funciona o licenciamento dos programas Open-Source ?](http://pt.stackoverflow.com/questions/29789/como-funciona-o-licenciamento-dos-programas-open-source)
+
+[What is the difference between SSL vs SSH? Which is more secure ?](https://security.stackexchange.com/questions/1599/what-is-the-difference-between-ssl-vs-ssh-which-is-more-secure)
