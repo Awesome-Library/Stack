@@ -73,7 +73,9 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [How are deques in Python implemented, and when are they worse than lists ?](http://stackoverflow.com/questions/6256983/how-are-deques-in-python-implemented-and-when-are-they-worse-than-lists)
 
-[What are “named tuples” in Python ?](http://stackoverflow.com/questions/2970608/what-are-named-tuples-in-python)
+[What are “ named tuples ” in Python ?](http://stackoverflow.com/questions/2970608/what-are-named-tuples-in-python)
+
+[Why are Python lambdas useful ?](http://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
 
 <h4>Php</h4>
 ------------------------------------------------------
