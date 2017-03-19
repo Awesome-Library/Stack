@@ -12,6 +12,14 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [The difference between “ #!/usr/bin/env bash ” and “ #!/usr/bin/bash ” ?](http://stackoverflow.com/questions/16365130/the-difference-between-usr-bin-env-bash-and-usr-bin-bash)
 
+[How to disable apache2 server from auto starting on boot](https://askubuntu.com/questions/170640/how-to-disable-apache2-server-from-auto-starting-on-boot)
+
+[How to get the Md5 hash of a string directly in the terminal ?](https://askubuntu.com/questions/53846/how-to-get-the-md5-hash-of-a-string-directly-in-the-terminal)
+
+[Ngrok installation in ubuntu 12.04](https://askubuntu.com/questions/703078/ngrok-installation-in-ubuntu-12-04)
+
+[Ubuntu One behind a proxy, how to make it work ?](https://askubuntu.com/questions/7081/ubuntu-one-behind-a-proxy-how-to-make-it-work?s=1|0.0000)
+
 <h4>C / C++</h4>
 ------------------------------------------------------
 
@@ -55,6 +63,12 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Expected two blank lines Pep 8 warning in Python](http://stackoverflow.com/questions/33466860/expected-two-blank-lines-pep8-warning-in-python)
 
+[What does the “yield” keyword do in Python ?](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+
+[What does if __name__ == “__main__”: do ?](http://stackoverflow.com/questions/419163/what-does-if-name-main-do)
+
+[How do I get list of methods in a Python class ?](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
+
 <h4>Php</h4>
 ------------------------------------------------------
 
@@ -86,8 +100,10 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [O que é código spaghetti ?](http://pt.stackoverflow.com/questions/31315/o-que-%c3%a9-c%c3%b3digo-spaghetti)
 
-[Testes, TDD, Unit Test, QA e assemelhados. Qual a diferença dos conceitos sobre testes ?](http://pt.stackoverflow.com/questions/19177/testes-tdd-unit-test-qa-e-assemelhados-qual-a-diferen%c3%a7a-dos-conceitos-sobre)
+[Testes, Tdd, Unit Test, Qa e assemelhados. Qual a diferença dos conceitos sobre testes ?](http://pt.stackoverflow.com/questions/19177/testes-tdd-unit-test-qa-e-assemelhados-qual-a-diferen%c3%a7a-dos-conceitos-sobre)
 
 [Comentários em código ao trabalhar em grupo](http://pt.stackoverflow.com/questions/56751/coment%c3%a1rios-em-c%c3%b3digo-ao-trabalhar-em-grupo)
 
 [O que significa handshake ?](http://pt.stackoverflow.com/questions/181115/o-que-significa-handshake)
+
+[What is pair programming ?](http://stackoverflow.com/questions/696586/what-is-pair-programming)
