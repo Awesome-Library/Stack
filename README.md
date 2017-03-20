@@ -41,6 +41,14 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Como ler do stdin em C ?](http://pt.stackoverflow.com/questions/42981/como-ler-do-stdin-em-c)
 
+[O que é unrolling ?](http://pt.stackoverflow.com/questions/186216/o-que-%C3%A9-unrolling/186228#186228)
+
+[Afinal por que usar C quando se está programando em C++ ?](http://pt.stackoverflow.com/questions/177611/afinal-por-que-usar-c-quando-se-est%C3%A1-programando-em-c?rq=1)
+
+[O que é uma recursão de cauda ?](http://pt.stackoverflow.com/questions/184494/o-que-%C3%A9-uma-recurs%C3%A3o-de-cauda?rq=1)
+
+[Quando usar “ inline ” ?](http://pt.stackoverflow.com/questions/183990/quando-usar-inline?noredirect=1&lq=1)
+
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
 
@@ -127,4 +135,10 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Como funciona o licenciamento dos programas Open-Source ?](http://pt.stackoverflow.com/questions/29789/como-funciona-o-licenciamento-dos-programas-open-source)
 
-[What is the difference between SSL vs SSH? Which is more secure ?](https://security.stackexchange.com/questions/1599/what-is-the-difference-between-ssl-vs-ssh-which-is-more-secure)
+[What is the difference between Ssl vs Ssh ? Which is more secure ?](https://security.stackexchange.com/questions/1599/what-is-the-difference-between-ssl-vs-ssh-which-is-more-secure)
+
+[Até que ponto a otimização prematura é um problema ?](http://pt.stackoverflow.com/questions/29507/at%C3%A9-que-ponto-a-otimiza%C3%A7%C3%A3o-prematura-%C3%A9-um-problema?rq=1)
+
+[O que é a complexidade de um algoritmo ?](http://pt.stackoverflow.com/questions/33319/o-que-%C3%A9-a-complexidade-de-um-algoritmo?noredirect=1&lq=1)
+
+[O que é um Jitter ?](http://pt.stackoverflow.com/questions/146250/o-que-%C3%A9-um-jitter)
