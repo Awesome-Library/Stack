@@ -3,6 +3,11 @@
 
 Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me ajudaram muito 🤖
 
+<h4>Memes</h4>
+------------------------------------------------------
+
+[The Many Memes of Meta](https://meta.stackexchange.com/questions/19478/the-many-memes-of-meta/19479)
+
 <h4>Linux</h4>
 ------------------------------------------------------
 
