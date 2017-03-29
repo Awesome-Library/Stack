@@ -147,3 +147,7 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que é a complexidade de um algoritmo ?](http://pt.stackoverflow.com/questions/33319/o-que-%C3%A9-a-complexidade-de-um-algoritmo?noredirect=1&lq=1)
 
 [O que é um Jitter ?](http://pt.stackoverflow.com/questions/146250/o-que-%C3%A9-um-jitter)
+
+[O que é “expressão idiomática” na programação ?](http://pt.stackoverflow.com/questions/184238/o-que-%C3%A9-express%C3%A3o-idiom%C3%A1tica-na-programa%C3%A7%C3%A3o)
+
+[Diferença entre Objeto e Instância](http://pt.stackoverflow.com/questions/192233/diferen%C3%A7a-entre-objeto-e-inst%C3%A2ncia?newsletter=1&nlcode=638314%7cebef)
