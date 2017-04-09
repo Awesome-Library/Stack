@@ -54,6 +54,20 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Quando usar “ inline ” ?](http://pt.stackoverflow.com/questions/183990/quando-usar-inline?noredirect=1&lq=1)
 
+[O que é uma lista encadeada ?](http://pt.stackoverflow.com/questions/164085/o-que-%C3%A9-uma-lista-encadeada)
+
+[O que é cabeça da lista encadeada ?](http://pt.stackoverflow.com/questions/170420/o-que-%C3%A9-cabe%C3%A7a-da-lista-encadeada?rq=1)
+
+[Listas encadeadas em C](http://pt.stackoverflow.com/questions/95461/listas-encadeadas-em-c?rq=1)
+
+[Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada ?](http://pt.stackoverflow.com/questions/102983/qual-a-diferen%C3%A7a-entre-lista-simplesmente-encadeada-e-duplamente-encadeada)
+
+[Struct e lista encadeada](http://pt.stackoverflow.com/questions/22489/struct-e-lista-encadeada)
+
+[Ordenação decrescente em Lista Duplamente Encadeada Circular em C](http://pt.stackoverflow.com/questions/156240/ordena%C3%A7%C3%A3o-decrescente-em-lista-duplamente-encadeada-circular-em-c)
+
+[Problema para criação de uma lista ligada em C](http://pt.stackoverflow.com/questions/150759/problema-para-cria%C3%A7%C3%A3o-de-uma-lista-ligada-em-c)
+
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
 
