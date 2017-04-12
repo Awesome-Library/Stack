@@ -68,6 +68,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Problema para criação de uma lista ligada em C](http://pt.stackoverflow.com/questions/150759/problema-para-cria%C3%A7%C3%A3o-de-uma-lista-ligada-em-c)
 
+[Stack smashing detected](http://stackoverflow.com/questions/1345670/stack-smashing-detected/2391629)
+
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
 
@@ -165,3 +167,9 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que é “expressão idiomática” na programação ?](http://pt.stackoverflow.com/questions/184238/o-que-%C3%A9-express%C3%A3o-idiom%C3%A1tica-na-programa%C3%A7%C3%A3o)
 
 [Diferença entre Objeto e Instância](http://pt.stackoverflow.com/questions/192233/diferen%C3%A7a-entre-objeto-e-inst%C3%A2ncia?newsletter=1&nlcode=638314%7cebef)
+
+[O que é ortogonalidade ?](http://pt.stackoverflow.com/questions/195461/o-que-%C3%A9-ortogonalidade?newsletter=1&nlcode=638314%7cebef)
+
+[O que significa Assets ?](http://pt.stackoverflow.com/questions/113886/o-que-significa-assets?rq=1)
+
+[O que significa os termos “ forward compatibility ” e “ backward compatibility ” ?](http://pt.stackoverflow.com/questions/195539/o-que-significa-os-termos-forward-compatibility-e-backward-compatibility?newsletter=1&nlcode=638314%7cebef)
