@@ -30,6 +30,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 <h4>C / C++</h4>
 ------------------------------------------------------
 
+[C Documentation Topics](http://stackoverflow.com/documentation/c/topics)
+
 [In C ++ source, what is the effect of extern “ C ” ?](http://stackoverflow.com/questions/1041866/in-c-source-what-is-the-effect-of-extern-c)
 
 [How can I send e-mail in C ?](http://stackoverflow.com/questions/2362989/how-can-i-send-e-mail-in-c)
@@ -73,22 +75,38 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
 
+[Ruby Documentation Topics](http://stackoverflow.com/documentation/ruby/topics)
+
+[Essential Ruby gems ?](http://stackoverflow.com/questions/1062278/essential-ruby-gems)
+
+[What is ActiveRecord Persistence ?](http://stackoverflow.com/questions/37188157/what-is-activerecord-persistence)
+
 [Multi - Line Comments in Ruby ?](http://stackoverflow.com/questions/2989762/multi-line-comments-in-ruby)
 
 [Parsing a Json string in Ruby](http://stackoverflow.com/questions/5410682/parsing-a-json-string-in-ruby)
+
+[How to create Edge rails application ?](http://stackoverflow.com/questions/3821077/how-to-create-edge-rails-application)
 
 [String concatenation in Ruby](http://stackoverflow.com/questions/377768/string-concatenation-in-ruby)
 
 [How to convert a string or integer to binary in Ruby ?](http://stackoverflow.com/questions/2339695/how-to-convert-a-string-or-integer-to-binary-in-ruby)
 
+[What is scaffolding? Is it a term for a particular platform ?](http://stackoverflow.com/questions/235018/what-is-scaffolding-is-it-a-term-for-a-particular-platform)
+
+[How to set up Postgres database for local Rails project ?](http://stackoverflow.com/questions/19953653/how-to-set-up-postgres-database-for-local-rails-project)
+
 [Intermingling attr_accessor and an initialize method in one class](http://stackoverflow.com/questions/16655915/intermingling-attr-accessor-and-an-initialize-method-in-one-class)
 
-<h4>Python</h4>
+<h4>Python / Django</h4>
 ------------------------------------------------------
+
+[Python Documentation Topics](http://stackoverflow.com/documentation/python/topics)
 
 [Upgrading all packages with pip](http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip)
 
 [How do I remove a virtualenv ?](http://stackoverflow.com/questions/11005457/how-do-i-remove-delete-a-virtualenv)
+
+[What is an ORM and where can I learn more about it ?](http://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it)
 
 [Does anyone have the monokai theme for Py Charm ?](http://stackoverflow.com/questions/4233600/does-anyone-have-the-monokai-theme-for-pycharm)
 
