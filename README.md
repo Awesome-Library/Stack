@@ -72,6 +72,12 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Stack smashing detected](http://stackoverflow.com/questions/1345670/stack-smashing-detected/2391629)
 
+[What is size_t in C ?](http://stackoverflow.com/questions/2550774/what-is-size-t-in-c)
+
+[Qual a diferenca entre os tipos de dados enum, struct e union em C ?](https://pt.stackoverflow.com/questions/137393/qual-a-diferenca-entre-os-tipos-de-dados-enum-struct-e-union-em-c?rq=1)
+
+[Como incrementar um enum em C ?](https://pt.stackoverflow.com/questions/191724/como-incrementar-um-enum-em-c#191724)
+
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
 
@@ -146,6 +152,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Qual a diferença entre charset e collation em banco de dados ?](http://pt.stackoverflow.com/questions/30329/qual-a-diferen%c3%a7a-entre-charset-e-collation-em-banco-de-dados)
 
 [How big is big data ?](http://datascience.stackexchange.com/questions/19/how-big-is-big-data)
+
+[Por que é muito utilizado Varchar(255) ?](https://pt.stackoverflow.com/questions/190799/por-que-%C3%A9-muito-utilizado-varchar255?newsletter=1&nlcode=638314%7Cebef)
 
 <h4>Geral</h4>
 ------------------------------------------------------
