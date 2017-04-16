@@ -40,6 +40,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Using a socks proxy from C++](http://stackoverflow.com/questions/2809559/using-a-socks-proxy-from-c?noredirect=1&lq=1)
 
+[O que é complexidade ciclomática ?](https://pt.stackoverflow.com/questions/193665/o-que-%C3%A9-complexidade-ciclom%C3%A1tica?newsletter=1&nlcode=638314%7Cebef)
+
 [Char Array Vs Char Pointer in C](http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c?rq=1)
 
 [Qual é a finalidade do void em C ?](http://pt.stackoverflow.com/questions/97138/qual-%c3%a9-a-finalidade-do-void-em-c)
@@ -55,6 +57,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que é uma recursão de cauda ?](http://pt.stackoverflow.com/questions/184494/o-que-%C3%A9-uma-recurs%C3%A3o-de-cauda?rq=1)
 
 [Quando usar “ inline ” ?](http://pt.stackoverflow.com/questions/183990/quando-usar-inline?noredirect=1&lq=1)
+
+[Por que devo usar apenas um “return” em cada função ?](https://pt.stackoverflow.com/questions/2477/por-que-devo-usar-apenas-um-return-em-cada-fun%C3%A7%C3%A3o?noredirect=1&lq=1)
 
 [O que é uma lista encadeada ?](http://pt.stackoverflow.com/questions/164085/o-que-%C3%A9-uma-lista-encadeada)
 
@@ -77,6 +81,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Qual a diferenca entre os tipos de dados enum, struct e union em C ?](https://pt.stackoverflow.com/questions/137393/qual-a-diferenca-entre-os-tipos-de-dados-enum-struct-e-union-em-c?rq=1)
 
 [Como incrementar um enum em C ?](https://pt.stackoverflow.com/questions/191724/como-incrementar-um-enum-em-c#191724)
+
+[Tool to calculate Cyclomatic Complexity for C code](http://stackoverflow.com/questions/22499198/tool-to-calculate-cyclomatic-complexity-for-c-code)
 
 <h4>Ruby / Ruby on Rails</h4>
 ------------------------------------------------------
@@ -197,5 +203,9 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [O que é ortogonalidade ?](http://pt.stackoverflow.com/questions/195461/o-que-%C3%A9-ortogonalidade?newsletter=1&nlcode=638314%7cebef)
 
 [O que significa Assets ?](http://pt.stackoverflow.com/questions/113886/o-que-significa-assets?rq=1)
+
+[Uma função grande ou muitas pequenas ?](https://pt.stackoverflow.com/questions/30772/uma-fun%C3%A7%C3%A3o-grande-ou-muitas-pequenas?noredirect=1&lq=1)
+
+[Tempo gasto com desenvolvimento de testes](https://pt.stackoverflow.com/questions/1992/tempo-gasto-com-desenvolvimento-de-testes?rq=1)
 
 [O que significa os termos “ forward compatibility ” e “ backward compatibility ” ?](http://pt.stackoverflow.com/questions/195539/o-que-significa-os-termos-forward-compatibility-e-backward-compatibility?newsletter=1&nlcode=638314%7cebef)
