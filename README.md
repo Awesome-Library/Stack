@@ -34,6 +34,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [In C ++ source, what is the effect of extern “ C ” ?](http://stackoverflow.com/questions/1041866/in-c-source-what-is-the-effect-of-extern-c)
 
+[Color text in terminal applications in Unix](https://stackoverflow.com/questions/3585846/color-text-in-terminal-applications-in-unix)
+
 [How can I send e-mail in C ?](http://stackoverflow.com/questions/2362989/how-can-i-send-e-mail-in-c)
 
 [Windows keylogger in C](http://codereview.stackexchange.com/questions/46980/windows-keylogger-in-c)
