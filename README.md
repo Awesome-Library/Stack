@@ -163,6 +163,10 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Por que é muito utilizado Varchar(255) ?](https://pt.stackoverflow.com/questions/190799/por-que-%C3%A9-muito-utilizado-varchar255?newsletter=1&nlcode=638314%7Cebef)
 
+<h4>Java & Kotlin<h4>
+
+[Quais as principais diferenças entre Kotlin e Java ?](https://pt.stackoverflow.com/questions/205914/quais-as-principais-diferen%C3%A7as-entre-kotlin-e-java?newsletter=1&nlcode=638314%7cebef)
+
 <h4>Geral</h4>
 ------------------------------------------------------
 
