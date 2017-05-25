@@ -140,6 +140,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Why are Python lambdas useful ?](http://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
 
+[Django : User Registration with error : no such table : auth_user](https://stackoverflow.com/questions/24682155/django-user-registration-with-error-no-such-table-auth-user)
+
 <h4>Php</h4>
 ------------------------------------------------------
 
