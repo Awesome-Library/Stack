@@ -27,6 +27,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [How to find remote routers mac address ?](https://security.stackexchange.com/questions/146364/how-to-find-remote-routers-mac-address)
 
+[Core dump , apport , no crash report](https://stackoverflow.com/questions/13122480/core-dump-apport-no-crash-report)
+
 <h4>C / C++</h4>
 ------------------------------------------------------
 
@@ -41,6 +43,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Windows keylogger in C](http://codereview.stackexchange.com/questions/46980/windows-keylogger-in-c)
 
 [Using a socks proxy from C++](http://stackoverflow.com/questions/2809559/using-a-socks-proxy-from-c?noredirect=1&lq=1)
+
+[Difference between string.h and strings.h](https://stackoverflow.com/questions/4291149/difference-between-string-h-and-strings-h)
 
 [O que é complexidade ciclomática ?](https://pt.stackoverflow.com/questions/193665/o-que-%C3%A9-complexidade-ciclom%C3%A1tica?newsletter=1&nlcode=638314%7Cebef)
 
@@ -141,6 +145,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Why are Python lambdas useful ?](http://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
 
 [Django : User Registration with error : no such table : auth_user](https://stackoverflow.com/questions/24682155/django-user-registration-with-error-no-such-table-auth-user)
+
+[No module named 'pymysql'](https://stackoverflow.com/questions/33446347/no-module-named-pymysql)
 
 <h4>Php</h4>
 ------------------------------------------------------
