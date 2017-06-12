@@ -130,6 +130,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Expected two blank lines Pep 8 warning in Python](http://stackoverflow.com/questions/33466860/expected-two-blank-lines-pep8-warning-in-python)
 
+[Para que serve o with no Python ?](https://pt.stackoverflow.com/questions/49238/para-que-serve-o-with-no-python)
+
 [What does the “yield” keyword do in Python ?](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 
 [What does if __name__ == “__main__”: do ?](http://stackoverflow.com/questions/419163/what-does-if-name-main-do)
