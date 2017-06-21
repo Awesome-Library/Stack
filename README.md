@@ -36,6 +36,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Difference between string.h and strings.h](https://stackoverflow.com/questions/4291149/difference-between-string-h-and-strings-h)
 
+[How to read space in scanset in C language](https://stackoverflow.com/questions/17423162/how-to-read-space-in-scanset-in-c-language)
+
 [O que é complexidade ciclomática ?](https://pt.stackoverflow.com/questions/193665/o-que-%C3%A9-complexidade-ciclom%C3%A1tica?newsletter=1&nlcode=638314%7Cebef)
 
 [Char Array Vs Char Pointer in C](http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c?rq=1)
