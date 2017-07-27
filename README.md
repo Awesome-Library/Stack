@@ -21,6 +21,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [How to find remote routers mac address ?](https://security.stackexchange.com/questions/146364/how-to-find-remote-routers-mac-address)
 
+[Run Android Studio after installation ( And other programs )](https://askubuntu.com/questions/639260/run-android-studio-after-installation-and-other-programs)
+
 <h4>C / C++</h4>
 ------------------------------------------------------
 
@@ -104,7 +106,11 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [Python Documentation Topics](http://stackoverflow.com/documentation/python/topics)
 
+[O que é deep learning ?](https://pt.stackoverflow.com/questions/218756/o-que-é-deep-learning)
+
 [Upgrading all packages with pip](http://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip)
+
+[Onde fica o construtor da classe em Python ?](https://pt.stackoverflow.com/questions/109813/onde-fica-o-construtor-da-classe-em-python)
 
 [What is an Orm and where can I learn more about it ?](http://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it)
 
@@ -116,6 +122,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 
 [What does if __name__ == “__main__”: do ?](http://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
+[Métodos “ __ ” ou “ Dunder ” em Python, quais são os mais utilizados ?](https://pt.stackoverflow.com/questions/176465/m%C3%A9todos-ou-dunder-em-python-quais-s%C3%A3o-os-mais-utilizados)
+
 [How do I get list of methods in a Python class ?](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
 
 [Pra que serve o __all__ no Python ?](http://pt.stackoverflow.com/questions/176527/pra-que-serve-o-all-no-python)
@@ -125,6 +133,10 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [What are “ named tuples ” in Python ?](http://stackoverflow.com/questions/2970608/what-are-named-tuples-in-python)
 
 [Why are Python lambdas useful ?](http://stackoverflow.com/questions/890128/why-are-python-lambdas-useful)
+
+[Autenticação User-App do Twitter](https://pt.stackoverflow.com/questions/182632/autentica%C3%A7%C3%A3o-user-app-do-twitter)
+
+[Function parameter types in Python](https://stackoverflow.com/questions/2489669/function-parameter-types-in-python)
 
 <h4>Php</h4>
 ------------------------------------------------------
@@ -146,6 +158,8 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Por que é muito utilizado Varchar(255) ?](https://pt.stackoverflow.com/questions/190799/por-que-%C3%A9-muito-utilizado-varchar255?newsletter=1&nlcode=638314%7Cebef)
 
 <h4>Java & Kotlin<h4>
+
+[O que é Kotlin ?](https://pt.stackoverflow.com/questions/221905/o-que-%C3%A9-kotlin?newsletter=1&nlcode=638314%7cebef)
 
 [Quais as principais diferenças entre Kotlin e Java ?](https://pt.stackoverflow.com/questions/205914/quais-as-principais-diferen%C3%A7as-entre-kotlin-e-java?newsletter=1&nlcode=638314%7cebef)
 
@@ -195,3 +209,9 @@ Respostas da rede [Stack Change](http://portuguese.stackexchange.com/) que me aj
 [Tempo gasto com desenvolvimento de testes](https://pt.stackoverflow.com/questions/1992/tempo-gasto-com-desenvolvimento-de-testes?rq=1)
 
 [O que significa os termos “ forward compatibility ” e “ backward compatibility ” ?](http://pt.stackoverflow.com/questions/195539/o-que-significa-os-termos-forward-compatibility-e-backward-compatibility?newsletter=1&nlcode=638314%7cebef)
+
+[Todos os métodos / verbos Http são aceitos pelo Apache e Nginx ?](https://pt.stackoverflow.com/questions/217944/todos-os-m%C3%A9todos-verbos-http-s%C3%A3o-aceitos-pelo-apache-e-nginx?newsletter=1&nlcode=638314%7cebef)
+
+[Como funciona um Captcha ?](https://pt.stackoverflow.com/questions/219502/como-funciona-um-captcha?newsletter=1&nlcode=638314%7cebef)
+
+[Para que serve um construtor ?](https://pt.stackoverflow.com/questions/73530/para-que-serve-um-construtor)
