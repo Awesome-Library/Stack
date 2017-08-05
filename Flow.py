@@ -18,7 +18,7 @@ def content ( site: str ) -> list :
 
     if resp.status_code != 200 :
 
-        print ( '\nError - Uri\n' )
+        print ( '\nError [ Content ] - Uri\n' )
 
         exit ( 1 )
 
@@ -35,46 +35,45 @@ def content ( site: str ) -> list :
 
     return links
 
-
 def page ( site: str ) -> None :
 
-    tag = '\n\n\t\t\t\t\t'.join ( content ( site ) )
+    tag = '\n\n\t\t\t\t'.join ( content ( site ) )
 
-    with open ( 'Stack.html', 'w' ) as arch :
+    cmd = '''<!DOCTYPE html>
 
-        cmd = '''<!DOCTYPE html>
+    <html lang = "pt-br">
 
-        <html lang = "pt-br">
+        <head>
 
-            <head>
+            <meta charset = "utf-8">
 
-                <meta charset = "utf-8">
+            <title>Stf</title>
 
-                <title>Stack Over Flow</title>
+            <meta name = "description" content = "Trending of Stack Over Flow">
 
-                <meta name = "description" content = "Trending of Stack Over Flow">
+            <link rel = "stylesheet" href = "Flow.css"/>
 
-                <link rel = "stylesheet" href = "Flow.css"/>
+        </head>
 
-            </head>
+        <body>
 
-            <body>
+            <nav>
 
-                <nav>
+                <a><img src = "http://i.imgur.com/epc4MwU.png" alt = "Stf" style = "width: 3em; height: 3em;"></a>
 
-                    <a title = "Stf"><img src = "http://i.imgur.com/epc4MwU.png" alt = "Stf" style = "width: 3em; height: 3em;"></a>
+                {tags}
 
-                    {tags}
+            </nav>
 
-                </nav>
+        </body>
 
-            </body>
+    <html>'''.format ( tags = tag )
 
-        <html>'''.format ( tags = tag )
+    with open ( 'Flow.html', 'w' ) as arch :
 
-        arch.write ( str ( cmd ) )
+        arch.write ( cmd )
 
 
-# page ( 'https://pt.stackoverflow.com/?tab=featured' )
+page ( 'https://pt.stackoverflow.com/?tab=featured' )
 
-page ( 'https://stackoverflow.com/?tab=featured' )
+# page ( 'https://stackoverflow.com/?tab=featured' )
